@@ -1,0 +1,23 @@
+{
+  "name": "socket-chat",
+  "version": "1.0.0",
+  "description": "Experimental socket io application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/femi-saliu/socketChat.git"
+  },
+  "author": "Femi Saliu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/femi-saliu/socketChat/issues"
+  },
+  "homepage": "https://github.com/femi-saliu/socketChat#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "socket.io": "^1.3.6"
+  }
+}
